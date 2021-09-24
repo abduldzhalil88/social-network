@@ -7,9 +7,9 @@ function MyPosts() {
         <div className={s['profile__post-body']}>
             <div className={s['profile__new-post']}>
                 my post
-               <Posts />
-               <Posts />
-               <Posts />
+                <Posts message='Hi! This is my post.' count='5' />
+                <Posts message='How are you?' count='10' />
+                <Posts count='15' />
             </div>
 
         </div>
