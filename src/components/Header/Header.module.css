@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background-color: #a3e2eb;
+    display: flex;
+    align-items: center;
+}
+
+.header__wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header__logo {
+    width: 50px;
+    padding-left: 40px;
+}

@@ -1,0 +1,11 @@
+.nav {
+    grid-area: n;
+}
+
+.nav__list {
+    list-style: none;
+}
+
+.nav__link {
+    text-decoration: none;
+}

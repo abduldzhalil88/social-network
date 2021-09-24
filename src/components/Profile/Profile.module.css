@@ -1,0 +1,9 @@
+.profile__wrapper {
+    grid-area: p;
+    
+
+}
+
+.profile__bgimage {
+    height: 250px;
+}
