@@ -9,3 +9,7 @@
 .nav__link {
     text-decoration: none;
 }
+
+.nav__link.active {
+    color: gold;
+}
