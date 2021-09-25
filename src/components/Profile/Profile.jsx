@@ -1,7 +1,8 @@
 import React from "react";
 import s from './Profile.module.css';
-import image from '../../images/bg_image_kaitag.jpg';
 import MyPosts from "./MyPosts/MyPosts";
+import image from '../../images/bg_image_kaitag.jpg';
+
 
 function Profile() {
     return (
